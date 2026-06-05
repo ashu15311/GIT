@@ -1,0 +1,3 @@
+Yes. When you're on a branch, the files visible in your VS Code Explorer are the files that exist in that branch at the current commit.
+
+Check which branch you're on
