@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<Styles>
+	<Id>522</Id>
+	<Code>TTS00001</Code>
+	<Type>1</Type>
+	<DocumentSource>1</DocumentSource>
+	<Status>3</Status>
+	<LongDescription>Super Duper Test Style</LongDescription>
+	<ShortDescription>Super Duper Test Sty</ShortDescription>
+	<PLUDescription>Super Duper Test Sty</PLUDescription>
+	<CreateDate>2023-02-23T16:57:00</CreateDate>
+	<OrderMultiple>1</OrderMultiple>
+	<MinOrderQtyStyle>1</MinOrderQtyStyle>
+	<MinOrderQtyStyleColor>1</MinOrderQtyStyleColor>
+	<MinOrderQtySku>0</MinOrderQtySku>
+	<DistributionMultiple>1</DistributionMultiple>
+	<ColorFlag>true</ColorFlag>
+	<SizeFlag>false</SizeFlag>
+	<PromoFlag>false</PromoFlag>
+	<ConsignmentFlag>false</ConsignmentFlag>
+	<InhouseUPCFlag>true</InhouseUPCFlag>
+	<VendorUPCFlag>true</VendorUPCFlag>
+	<ReorderFlag>true</ReorderFlag>
+	<FashionFlag>false</FashionFlag>
+	<ReplenishableFlag>true</ReplenishableFlag>
+	<ResultingPOPredistribType>1</ResultingPOPredistribType>
+	<DeleteStatus>1</DeleteStatus>
+	<ActiveFlag>true</ActiveFlag>
+	<AllowCustomerOrderFlag>true</AllowCustomerOrderFlag>
+	<Threshold>0</Threshold>
+	<ProtectedFlag>false</ProtectedFlag>
+	<SerialNumberFlag>false</SerialNumberFlag>
+	<InventoryIdentificationNoFlag>false</InventoryIdentificationNoFlag>
+</Styles>
